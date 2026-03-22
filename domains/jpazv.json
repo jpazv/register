@@ -4,7 +4,10 @@
     "email": "jpazevedomoreiraa@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "3816b74f346d57ae.vercel-dns-017.com",
+    "TXT": {
+      "_vercel": "vc-domain-verify=jpazv.is-a.dev,7dd80685a543afea22ca"
+    }
   },
   "description": "João Paulo Azevedo - Front-end Developer Portfolio",
   "repo": "https://github.com/jpazv/portfolio"
